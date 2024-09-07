@@ -1,0 +1,38 @@
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.log
+
+# ASP.NET Core
+wwwroot/
+appsettings.Development.json
+appsettings.json
+*.swp
+*.swo
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.dbmdl
+*.bak
+*.backup
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
